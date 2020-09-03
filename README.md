@@ -21,7 +21,7 @@ Projects I currently love ⚡ :
 * [Prisma](https://github.com/prisma/prisma)
 * [Expo](https://github.com/expo/expo)
 * [Deno](https://github.com/denoland/deno)
-* [Deluge](https://dev.deluge-torrent.org/wiki/GitRepo)
+* [Nest](https://github.com/nestjs/nest)
 * [Docker](https://github.com/docker/docker-ce)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulMonnery&show_icons=true)
