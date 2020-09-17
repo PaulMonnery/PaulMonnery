@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-TypeScript enthusiast, Web & Software developer and Vice-President at [PoC](https://github.com/PoCFrance)
+TypeScript enthusiast, Web & Software developer and Vice-President at [PoC](https://github.com/PoCFrance)  
 
 Projects I currently love ⚡ :
 * [Prisma](https://github.com/prisma/prisma)
@@ -23,6 +23,8 @@ Projects I currently love ⚡ :
 * [Deno](https://github.com/denoland/deno)
 * [Nest](https://github.com/nestjs/nest)
 * [Docker](https://github.com/docker/docker-ce)
+
+I write Web & Software workshops for PoC, available in [this repo](https://github.com/PoCFrance/Workshops/tree/master/software)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulMonnery&show_icons=true)
 
