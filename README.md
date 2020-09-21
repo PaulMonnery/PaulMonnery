@@ -24,7 +24,7 @@ Projects I currently love ⚡ :
 * [Nest](https://github.com/nestjs/nest)
 * [Docker](https://github.com/docker/docker-ce)
 
-I write Web & Software workshops for PoC, available in [this repo](https://github.com/PoCFrance/Workshops/tree/master/software)
+I write Web & Software workshops for PoC, available in [this repo](https://github.com/PoCInnovation/Workshops/tree/master/software)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulMonnery&show_icons=true)
 
