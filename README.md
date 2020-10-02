@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-TypeScript enthusiast, Web & Software developer and Vice-President at [PoC](https://github.com/PoCFrance)  
+TypeScript enthusiast, Web & Software developer and Vice-President at [PoC](https://github.com/PoCInnovation)  
 
 Projects I currently love ⚡ :
 * [Prisma](https://github.com/prisma/prisma)
