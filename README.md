@@ -1,7 +1,7 @@
 # Hi there :eyes:
 
 TypeScript enthusiast, Software engineer @ [Ramify](https://github.com/Ramify)  
-Ex Vice-President @ [PoC Innovation](https://github.com/PoCInnovation)  
+Former Vice-President @ [PoC Innovation](https://github.com/PoCInnovation)  
 
 Projects I currently love 🧡 :
 * [Prisma](https://github.com/prisma/prisma)
